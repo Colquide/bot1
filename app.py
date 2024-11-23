@@ -5,9 +5,9 @@ st.balloons()
 # Show title and description.
 st.title("💬 Colquide")
 st.write(
-   "Repositorio de historias y anécdotas✍🏻 " <p>
+   "Repositorio de historias y anécdotas✍🏻 " 
    
-   "El amor no es consuelo, es luz.🤍 " </p>
+   "El amor no es consuelo, es luz.🤍 " 
    
    "Te leemos👀"
 )
