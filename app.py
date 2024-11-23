@@ -5,10 +5,10 @@ st.balloons()
 # Show title and description.
 st.title("💬 Colquide")
 st.write(
-   "Repositorio de historias y anécdotas✍🏻 " "\n "
-   
-   "El amor no es consuelo, es luz.🤍 " "\n "
-   
+   "Repositorio de historias y anécdotas✍🏻 " 
+   "\n "
+   "El amor no es consuelo, es luz.🤍 " 
+   "\n "
    "Te leemos👀"
 )
 openai_api_key = st.secrets["api_key"] 
